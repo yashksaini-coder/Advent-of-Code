@@ -45,7 +45,7 @@ bool filter (std::vector<Range>& ranges) {
 
 int main(int argc, char* argv[])
 {
-    std::string input = "../input/day_05_input";
+    std::string input = "input.txt";
     if (argc > 1) {
         input = argv[1];
     }
